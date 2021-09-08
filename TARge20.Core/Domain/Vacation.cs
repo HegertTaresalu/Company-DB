@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TARge20.Core.Domain
 {
-    class Vacation
+    public class Vacation
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

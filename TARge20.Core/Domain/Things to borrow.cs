@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TARge20.Core.Domain
 {
-    class Things_to_borrow
+    public class Things_to_borrow
     {
         [Key]
         public string Items { get; set; }

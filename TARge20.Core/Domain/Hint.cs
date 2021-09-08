@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace TARge20.Core.Domain
 {
-    class Hints
+    public class Hint
     {
-        
-        public string Hint { get; set; }
+        [Key]
+        public string hint { get; set; }
     }
 }

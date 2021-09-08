@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TARge20.Core.Domain
 {
-    public class Employee
+    public  class Employee
     {
         [Key]
 

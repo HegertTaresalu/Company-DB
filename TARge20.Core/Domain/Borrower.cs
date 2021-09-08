@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TARge20.Core.Domain
 {
-    class Borrower
+    public class Borrower
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

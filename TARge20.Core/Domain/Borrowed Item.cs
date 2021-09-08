@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TARge20.Core.Domain
 {
-    class Borrowed_Item
+    public class Borrowed_Item
     {
         [ForeignKey("Item")]
         public string Item {get;set; }

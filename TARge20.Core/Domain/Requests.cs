@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TARge20.Core.Domain
 {
-    class Requests
+    public class Requests
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
