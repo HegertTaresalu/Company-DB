@@ -1,0 +1,12 @@
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\bin\Debug\netcoreapp3.1\TARge20.Core.deps.json
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\bin\Debug\netcoreapp3.1\TARge20.Core.runtimeconfig.json
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\bin\Debug\netcoreapp3.1\TARge20.Core.runtimeconfig.dev.json
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\bin\Debug\netcoreapp3.1\TARge20.Core.dll
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\bin\Debug\netcoreapp3.1\TARge20.Core.pdb
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.csprojAssemblyReference.cache
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.AssemblyInfo.cs
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.dll
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.pdb
+C:\Users\opilane\Desktop\Company-DB-master\TARge20.Core\obj\Debug\netcoreapp3.1\TARge20.Core.genruntimeconfig.cache

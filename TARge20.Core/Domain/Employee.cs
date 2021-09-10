@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TARge20.Core.Domain
 {
-    public  class Employee
+    public class Employee
     {
         [Key]
 
@@ -28,6 +28,18 @@ namespace TARge20.Core.Domain
         [ForeignKey("VacationStatus")]
         public string VacationStatus { get; set; }
 
+
+
+        public ICollection <Access> Accesses { get; set; }
+
+        public ICollection <Requests> Requests { get; set; }
+        public ICollection <Children> Childrens { get; set; }
+
+        public ICollection <Healthcheck> Healthchecks { get; set; }
+        public ICollection <Vacation> Vacations {get;set;}
+        public ICollection <Things_to_borrow> Items { get; set; }
+
+        public ICollection <Hint> Hints { get; set; }
 
     }
     /// ESIMENE HINDELINE HARJUTUS

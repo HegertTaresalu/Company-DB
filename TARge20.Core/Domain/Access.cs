@@ -9,6 +9,8 @@ namespace TARge20.Core.Domain
    public class Access
     {
         [Key]
+        public Guid Id { get; set; }
+
         public string JobTitle { get; set; }
 
     }

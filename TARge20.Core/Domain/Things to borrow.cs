@@ -9,5 +9,6 @@ namespace TARge20.Core.Domain
     {
         [Key]
         public string Items { get; set; }
+        ICollection<Borrowed_Item> Borrowed_Items { get; set; }
     }
 }

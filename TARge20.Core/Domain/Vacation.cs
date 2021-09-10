@@ -10,13 +10,13 @@ namespace TARge20.Core.Domain
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        [ForeignKey(nameof(Id))]
+        
         public Guid Id { get; set; }
 
-        [ForeignKey(nameof(IdentificationCode))]
+        [ForeignKey("IdentificationCode")]
         public Guid IdentificationCode { get; set; }
 
-        [ForeignKey(nameof(Status))]
+        [ForeignKey("Status")]
         public string Status { get; set; }
 
 

@@ -7,6 +7,9 @@ namespace TARge20.Core.Domain
 {
     public class Borrowed_Item
     {
+        
+        public Guid Id { get; set; }
+
         [ForeignKey("Item")]
         public string Item {get;set; }
     }
